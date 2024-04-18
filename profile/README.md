@@ -1,5 +1,6 @@
 # Code;lution
 > `Code`의 모든 `Solution`을 담은 Online Judge 서비스, ***코드루션***
+> <img src = "https://github.com/Code-lution/.github/assets/74345771/033906b8-e677-44f2-952f-18aa6b651291">
 
 2024.04.17 - 제작중
 </br></br>
@@ -13,7 +14,7 @@
 (4) Plugin System :    
 (5) Deploy :     
 
-그리고 제작 스토리는 [블로그](https://velog.io/@2024-11th/Codelution1)를 참조해주세요.   
+그리고 문서는 [Notion](https://fsm12.notion.site/PJT-Online-Judge-Code-lution-0a40485aaec448c48304d35d46cb1840)을 제작 스토리는 [블로그](https://velog.io/@2024-11th/Codelution1)를 참조해주세요.   
 
 </br>
 
